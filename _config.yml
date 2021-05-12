@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: valstat&trade;
 description: call reply protocol for software components inter operability
 logo: https://valstat.github.io/home/logo.png
-show_downloads: "false"
+show_downloads: false
 
