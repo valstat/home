@@ -1,4 +1,4 @@
-# An call reply protocol
+Software components call reply protocol
 
 ### [valstat rfc](https://github.com/valstat/valstat-rfc)
 
@@ -24,7 +24,5 @@ Vry simple Windows DLL written in C for sampling the valstat interoperability wi
 
 valstat enabled C# application using the C valstat enabled DLL
 
-
-&copy; 2020 - 2021 by dbj@dbj.org
-
-https://dbj.org/license_dbj
+---
+&copy; 2020 - 2021 by dbj@dbj.org, [LICENSE DBJ](https://dbj.org/license_dbj)
