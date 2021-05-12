@@ -1,6 +1,4 @@
-# valstat
-
-## A call reply protocol
+# An call reply protocol
 
 ### [valstat rfc](https://github.com/valstat/valstat-rfc)
 
