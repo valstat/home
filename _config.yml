@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: valstat
 description: call reply protocol for software components inter operability
-logo: [Location of the logo]
+logo: logo.png
 show_downloads: "false"
 google_analytics: [Your Google Analytics tracking ID]
