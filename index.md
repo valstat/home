@@ -19,7 +19,7 @@ valstat C++ code experimenting
 
 ### [C DLL used for sampling](https://github.com/valstat/valstat_dll)
 
-Vry simple Windows DLL written in C for sampling the valstat interoperability with various languages
+Very simple Windows DLL written in C for sampling the valstat interoperability with various languages
 
 ### [valstat enabled c# dll user](https://github.com/valstat/valstat_csharp)
 
