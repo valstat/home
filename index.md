@@ -11,7 +11,7 @@ valstat C99 binding
 
 ### [valstat cpp](https://github.com/valstat/valstat_cpp)
 
-valstat c++17 binding
+valstat c++ binding
 
 ### [various cpp samples](https://github.com/valstat/valstat_cpp_code)
 
